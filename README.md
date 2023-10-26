@@ -10,5 +10,5 @@ This course consist of 4 pricnicpal part of machine learning: Supervised Learnin
 ### Recommender System:
 - Content Based Filtering: Recommend movies based on the genres, movies which are similar in type, Based on users last watched movie we recommend few similar movies having similar kind of genre.
 - Collaborative Filtering: This filtering is based on users , Based on similar kind of users we recommend the movies.
-#### I successfully passed all the projects 100/100 [Link](https://maktabkhooneh.org/certificates/MK-7NMDWR/)
+#### I successfully passed all the projects 100/100 [Certificate](https://maktabkhooneh.org/certificates/MK-7NMDWR/)
 
